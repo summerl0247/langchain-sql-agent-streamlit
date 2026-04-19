@@ -158,7 +158,7 @@ def list_tables_and_columns(db_path: str) -> pd.DataFrame:
 # ============================
 # Streamlit App
 # ============================
-st.set_page_config(page_title="Chat with CSVs", layout="wide")
+st.set_page_config(page_title="LangChain SQL Agent for CSVs", layout="wide")
 st.title("Chat with your CSVs")
 
 with st.sidebar:
