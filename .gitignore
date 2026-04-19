@@ -1,0 +1,7 @@
+__pycache__/
+*.pyc
+*.pyo
+*.db
+.env
+.streamlit/secrets.toml
+tmp_chat_with_csv.db
